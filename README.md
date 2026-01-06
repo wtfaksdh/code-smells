@@ -77,5 +77,3 @@ DEFAULT_CURRENCY = "USD"
 discount = int(subtotal * DISCOUNT_SAVE10)
 currency = DEFAULT_CURRENCY
 ```
-discount = int(subtotal * 0.10)
-currency = "USD"
